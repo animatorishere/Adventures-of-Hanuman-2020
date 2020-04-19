@@ -1,0 +1,15 @@
+walk-0-20
+iddle-20-80
+single hit-85-100
+double ht-110-140
+combo-160-202
+jump-203-242
+static jump-250-289
+jump hit-310-325
+jump roll-326-342
+jump roll hit-343-351
+water dive-430-490
+fly-500-560
+static fly-561-620
+static fly  hit-621-638
+fly hit-639-652
